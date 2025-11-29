@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left"> Mahasiswa aktif jurusan Teknologi Informasi di Universitas Darma Persada dengan fokus pada pengembangan web, manajemen database, dan desain digital. Memiliki ketertarikan pada UI/UX dan pengembangan aplikasi. Selalu antusias belajar hal baru, adaptif terhadap perkembangan teknologi, dan memiliki rasa ingin tahu yang tinggi.</p>
+<p align="left"> Information Technology Student at Universitas Darma Persada specializing in Web Development and Database Management. Possesses a solid understanding of user-centered UI/UX principles and digital design in developing scalable and functional software solutions. A highly adaptive individual with a strong ability to quickly learn new technologies and contribute effectively to application development projects. </p>
 
 ###
 
