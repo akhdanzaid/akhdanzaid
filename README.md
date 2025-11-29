@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left"> Information Technology Student at Universitas Darma Persada specializing in Web Development and Database Management. Possesses a solid understanding of user-centered UI/UX principles and digital design in developing scalable and functional software solutions. A highly adaptive individual with a strong ability to quickly learn new technologies and contribute effectively to application development projects. </p>
+<p align="left"> Information Technology Student at Darma Persada University specializing in Web Development and Database Management. Possesses a solid understanding of user-centered UI/UX principles and digital design in developing scalable and functional software solutions. A highly adaptive individual with a strong ability to quickly learn new technologies and contribute effectively to application development projects. </p>
 
 ###
 
